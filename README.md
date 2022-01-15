@@ -11,4 +11,4 @@ _My philosophy on life: You can learn anything you want and thus become anyone y
 
 Wanna know more about me? You can write me in Danish, English, German, Croatian and Russian
 
-![Adobe Certified Professional - Adobe Commerce Developer](./Adobe_Certified_Professional_Adobe_Commerce_Developer_badge.png)
+![Adobe Certified Professional - Adobe Commerce Developer](./Adobe_Certified_Professional_Adobe_Commerce_Developer_badge_small.png)
