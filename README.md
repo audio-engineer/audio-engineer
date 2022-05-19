@@ -5,7 +5,7 @@ _My philosophy on life: You can learn anything you want and thus become anyone y
 - Based in Copenhagen, Denmark :round_pushpin:
 - Working for Visma Digital Commerce :briefcase:
 - Adobe Certified Professional - Adobe Commerce Developer :books:
-- Experience with PHP (Magento 2), HTML, CSS (Less, Sass), SQL, JavaScript/TypeScript/Node.js (React, Express.js), Git/GitHub/Bitbucket :point_up:
+- Experience with PHP (Adobe Commerce), HTML, CSS (Less, Sass), SQL, JavaScript/TypeScript/Node.js (React, Express.js), Git/GitHub/Bitbucket :point_up:
 - Currently learning Go :eyes:
 - Having a special keeness for clean and efficient code :pinched_fingers:
 
